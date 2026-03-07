@@ -1,0 +1,16 @@
+{
+  "name": "PiOrbit-ULTRA-PRO-MAX",
+  "version": "1.0.0",
+  "description": "PiOrbit ULTRA PRO MAX - تطبيق ويب جاهز للرفع على GitHub Pages وPi Apps",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=./index.html",
+    "build": "echo 'No build required for static web app'"
+  },
+  "author": "مجيب الرحمن عبدالرحمن عبدة الاهدل",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
