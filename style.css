@@ -1,24 +1,26 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 80px;
+
+body{
+font-family:Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+margin:0;
 }
-button {
-    padding: 15px;
-    font-size: 18px;
-    background: #6b2fb3;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    margin: 10px;
+header{
+background:#111827;
+padding:20px;
 }
-h1 {
-    margin-bottom: 40px;
-    font-size: 32px;
-    color: #4a148c;
+nav{
+background:#1f2937;
+padding:10px;
 }
-p {
-    margin-top: 30px;
-    font-size: 14px;
-    color: #555;
+button{
+margin:5px;
+padding:10px;
+border:none;
+background:#6366f1;
+color:white;
+cursor:pointer;
 }
+.page{display:none;padding:20px;}
+.active{display:block;}

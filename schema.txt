@@ -1,0 +1,10 @@
+
+Example database structure
+
+users:
+- id
+- username
+- points
+- level
+- referral_code
+- referral_earnings
